@@ -1,0 +1,42 @@
+.container {
+
+}
+
+#navbar {
+  height: 5rem;
+  width: 100%;
+  background-color: turquoise;
+}
+
+#paramBar {
+  width: 100%;
+  height: 3rem;
+  background-color: #444;
+  display: flex;
+  flex-direction: row;
+}
+
+.param {
+
+}
+
+.trailDifficulty {
+  display: flex;
+  flex-direction: row;
+}
+.trailDifficulty ul{
+  display: flex;
+  flex-direction: row;
+}
+
+
+.trailDifficulty-option {
+  height: 1.5rem;
+  width:1.5rem;
+  background-color: black;
+}
+
+.distance ul{
+  display: flex;
+  flex-direction: row;
+}
